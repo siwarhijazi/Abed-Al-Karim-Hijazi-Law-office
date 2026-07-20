@@ -757,19 +757,19 @@ body[dir="rtl"] .copyright {
     }
 }
 .site-logo {
-    display: block;
-    width: 95px;
-    height: 65px;
-    object-fit: contain;
-    flex-shrink: 0;
+    width: 55px !important;
+    height: 55px !important;
+    object-fit: cover;
+    object-position: center;
+    overflow: hidden;
 }
 .site-header {
     height: auto;
 }
 
 .nav-wrapper {
-    min-height: 84px;
-    max-height: 90px;
+    min-height: 70px;
+    max-height: 70px;
     overflow: hidden;
 }
 @media (max-width: 650px) {
