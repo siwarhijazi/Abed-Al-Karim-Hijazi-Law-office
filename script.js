@@ -2,96 +2,149 @@ const translations = {
 
     en: {
 
-        brandName: "Abed Al Karim Hijazi",
-        brandSubtitle: "Law Office",
+        brandName:
+            "Abed Al Karim Hijazi",
 
-        navHome: "Home",
-        navAbout: "About",
-        navServices: "Services",
-        navPeople: "Our People",
-        navApproach: "Our Approach",
-        navContact: "Contact",
+        brandSubtitle:
+            "Law Office",
 
-        heroEyebrow: "Full-service law firm since 1992",
+        navHome:
+            "Home",
+
+        navAbout:
+            "About",
+
+        navServices:
+            "Services",
+
+        navPeople:
+            "Our People",
+
+        navApproach:
+            "Our Approach",
+
+        navContact:
+            "Contact",
+
+        heroEyebrow:
+            "Independent law firm since 1992",
 
         heroTitle:
-            "Trusted legal counsel in Lebanon and across the Middle East",
+            "Strategic legal counsel. Clear judgment. Trusted representation.",
 
         heroDescription:
-            "We provide practical legal advice, strategic representation, contract drafting and dispute resolution for individuals, companies and organisations.",
+            "We advise individuals, entrepreneurs and businesses across civil, commercial, corporate, real estate, family and criminal matters in Lebanon.",
 
-        heroContact: "Contact our office",
-        heroServices: "Explore our services",
+        heroContact:
+            "Contact the firm",
 
-        statFounded: "Established",
-        statExperience: "Years of legal practice",
-        statRegionValue: "Lebanon & MENA",
-        statRegion: "Regional legal services",
+        heroServices:
+            "View practice areas",
 
-        aboutLabel: "About the firm",
+        heroSideLabel:
+            "Based in",
+
+        heroSideLocation:
+            "Baabda, Lebanon",
+
+        heroSideText:
+            "Serving clients across Lebanon and the Middle East.",
+
+        statFounded:
+            "Established",
+
+        statExperience:
+            "Years of legal practice",
+
+        statRegionValue:
+            "Lebanon & MENA",
+
+        statRegion:
+            "Regional legal services",
+
+        aboutLabel:
+            "About the firm",
 
         aboutTitle:
-            "Legal service built on experience, discretion and trust",
+            "A focused legal practice built on experience, discretion and trust.",
 
         aboutParagraph1:
-            "Abed Al Karim Hijazi Law Office is a full-service law firm based in Baabda, Lebanon. Since 1992, the firm has advised and represented individuals, companies and organisations in a broad range of legal matters.",
+            "Abed Al Karim Hijazi Law Office is an independent, full-service law firm based in Baabda, Lebanon. Since 1992, the firm has advised and represented individuals, families, companies and organisations in a broad range of legal matters.",
 
         aboutParagraph2:
-            "The firm combines careful legal analysis with practical advice. We assist clients in negotiations, commercial transactions, contract matters, disputes and proceedings before Lebanese courts and public authorities.",
+            "The firm combines rigorous legal analysis with practical judgment. We support clients through negotiations, transactions, contract matters, disputes and proceedings before Lebanese courts and public authorities.",
 
         aboutParagraph3:
-            "Our objective is to help clients understand their legal position, evaluate their options and make informed decisions with confidence.",
+            "Our objective is to provide clear guidance, protect our clients’ interests and help them make informed decisions with confidence.",
 
-        servicesLabel: "Practice areas",
-        servicesTitle: "Comprehensive legal support",
+        aboutLink:
+            "Meet the founder",
 
-        civilTitle: "Civil Law",
+        servicesLabel:
+            "Practice areas",
+
+        servicesTitle:
+            "Integrated legal support for complex matters.",
+
+        servicesIntroduction:
+            "We provide clear advice and strategic representation across the principal areas of Lebanese private law, litigation and business law.",
+
+        civilTitle:
+            "Civil Law",
 
         civilText:
-            "Advice and representation in civil claims, contractual obligations, compensation matters and disputes.",
+            "Claims, contractual obligations, compensation matters and private disputes.",
 
-        criminalTitle: "Criminal Law",
+        criminalTitle:
+            "Criminal Law",
 
         criminalText:
-            "Legal assistance and representation during criminal investigations and judicial proceedings.",
+            "Advice and representation in criminal investigations and judicial proceedings.",
 
-        commercialTitle: "Commercial Litigation",
+        commercialTitle:
+            "Commercial Litigation",
 
         commercialText:
-            "Representation of companies and professionals in commercial disputes, negotiations and litigation.",
+            "Business disputes, negotiations and court proceedings.",
 
-        corporateTitle: "Corporate Law",
+        corporateTitle:
+            "Corporate Law",
 
         corporateText:
-            "Legal support for companies, business operations, agreements and commercial transactions.",
+            "Company matters, business agreements and commercial operations.",
 
-        contractsTitle: "Contract Drafting",
+        contractsTitle:
+            "Contract Drafting",
 
         contractsText:
-            "Drafting, reviewing and negotiating contracts for individuals, businesses and organisations.",
+            "Drafting, reviewing and negotiating commercial and private agreements.",
 
-        disputesTitle: "Dispute Resolution",
+        disputesTitle:
+            "Dispute Resolution",
 
         disputesText:
-            "Strategic assistance in negotiation, settlement, mediation and litigation.",
+            "Negotiation, settlement, mediation and litigation strategy.",
 
-        realEstateTitle: "Real Estate Law",
+        realEstateTitle:
+            "Real Estate Law",
 
         realEstateText:
-            "Assistance with property transactions, ownership, leases and real estate disputes.",
+            "Property transactions, ownership, leases and real estate disputes.",
 
-        familyTitle: "Family Law",
+        familyTitle:
+            "Family Law",
 
         familyText:
-            "Confidential legal support in family-related matters and proceedings.",
+            "Confidential advice and representation in family-related matters.",
 
-        peopleLabel: "Our People",
+        peopleLabel:
+            "Our People",
 
         peopleSectionTitle:
-            "Legal experience and public engagement",
+            "Legal experience and public engagement.",
 
-        photoNote:
-            "Professional portrait can be added here",
+        lawyerPhotoCaption:
+            "Founder",
 
         lawyerRole:
             "Lawyer and Founder",
@@ -103,13 +156,13 @@ const translations = {
             "Lawyer registered with the Beirut Bar Association",
 
         lawyerParagraph1:
-            "Abed Al Karim Hijazi is a Lebanese lawyer and the founder of Abed Al Karim Hijazi Law Office. He has extensive experience advising and representing individuals and businesses in civil, commercial, criminal, real estate and family law matters.",
+            "Abed Al Karim Hijazi is a Lebanese lawyer and founder of Abed Al Karim Hijazi Law Office. He has extensive experience advising and representing individuals and businesses in civil, commercial, criminal, real estate and family law matters.",
 
         lawyerParagraph2:
             "His practice is guided by close client communication, careful legal analysis and a practical understanding of the Lebanese legal and institutional environment.",
 
         lawyerParagraph3:
-            "Alongside his legal practice, he hosts the weekly legal and political radio programme “Al Mouwaten Wal Kanoun” on Sawt Al Shaeb Radio. For more than four decades, the programme has featured discussions with legal professionals, academics, public figures and specialists on Lebanese and international legal and political affairs.",
+            "Alongside his legal practice, he hosts the weekly legal and political radio programme “Al Mouwaten Wal Kanoun” on Sawt Al Shaeb Radio. For more than four decades, the programme has featured discussions with legal professionals, academics, public figures and specialists on Lebanese and international legal affairs.",
 
         lawyerParagraph4:
             "Through his legal work and public dialogue, he contributes to making legal issues more accessible and encourages informed discussion about the rule of law, public institutions and citizens’ rights.",
@@ -138,54 +191,71 @@ const translations = {
         highlight4Text:
             "Lebanese and international legal affairs",
 
-        approachLabel: "Our approach",
+        approachLabel:
+            "Our approach",
 
         approachTitle:
-            "Clear advice. Strong representation.",
+            "Calm analysis. Practical advice. Determined advocacy.",
 
         approachDescription:
             "Every matter is handled with care, confidentiality and close attention to the client’s objectives.",
 
-        experienceTitle: "Experience",
+        experienceTitle:
+            "Experience",
 
         experienceText:
             "Decades of legal practice and knowledge of the Lebanese legal environment.",
 
-        clarityTitle: "Clarity",
+        clarityTitle:
+            "Clarity",
 
         clarityText:
-            "Clear explanations that help clients understand their rights, risks and options.",
+            "Clear explanations of the legal position, available options and practical consequences.",
 
-        confidentialityTitle: "Confidentiality",
+        confidentialityTitle:
+            "Confidentiality",
 
         confidentialityText:
             "Discreet and professional handling of every legal matter.",
 
-        commitmentTitle: "Commitment",
+        commitmentTitle:
+            "Commitment",
 
         commitmentText:
             "Focused representation and responsive client service.",
 
-        contactLabel: "Contact",
+        contactLabel:
+            "Contact",
 
         contactTitle:
-            "Discuss your legal matter with our office",
+            "Discuss your legal matter with the firm.",
 
         contactDescription:
-            "Contact us to request an appointment or receive more information about our legal services.",
+            "Contact us to request an appointment or receive further information about our legal services.",
 
-        telephoneLabel: "Telephone",
+        telephoneLabel:
+            "Telephone",
 
-        addressLabel: "Address",
-        addressText: "Jamhour Street, Baabda, Lebanon",
+        addressLabel:
+            "Address",
 
-        hoursLabel: "Opening hours",
-        hoursText: "Monday–Saturday, 8:00–20:00",
+        addressText:
+            "Jamhour Street, Baabda, Lebanon",
 
-        serviceAreaLabel: "Service area",
-        serviceAreaText: "Lebanon and the Middle East",
+        hoursLabel:
+            "Opening hours",
 
-        callButton: "Call the office",
+        hoursText:
+            "Monday–Saturday, 8:00–20:00",
+
+        serviceAreaLabel:
+            "Service area",
+
+        serviceAreaText:
+            "Lebanon and the Middle East",
+
+        callButton:
+            "Call the office",
 
         footerFirm:
             "Abed Al Karim Hijazi Law Office",
@@ -194,7 +264,7 @@ const translations = {
             "Baabda, Lebanon",
 
         footerDisclaimer:
-            "The information on this website is provided for general informational purposes only and does not constitute legal advice. Contacting the office does not automatically create a lawyer-client relationship.",
+            "The information on this website is provided for general informational purposes only and does not constitute legal advice.",
 
         footerCopyright:
             "Abed Al Karim Hijazi Law Office. All rights reserved."
@@ -202,97 +272,149 @@ const translations = {
 
     fr: {
 
-        brandName: "Abed Al Karim Hijazi",
-        brandSubtitle: "Cabinet d’avocats",
+        brandName:
+            "Abed Al Karim Hijazi",
 
-        navHome: "Accueil",
-        navAbout: "À propos",
-        navServices: "Services",
-        navPeople: "Notre équipe",
-        navApproach: "Notre approche",
-        navContact: "Contact",
+        brandSubtitle:
+            "Cabinet d’avocats",
+
+        navHome:
+            "Accueil",
+
+        navAbout:
+            "À propos",
+
+        navServices:
+            "Services",
+
+        navPeople:
+            "Notre équipe",
+
+        navApproach:
+            "Notre approche",
+
+        navContact:
+            "Contact",
 
         heroEyebrow:
-            "Cabinet d’avocats pluridisciplinaire depuis 1992",
+            "Cabinet d’avocats indépendant depuis 1992",
 
         heroTitle:
-            "Un accompagnement juridique de confiance au Liban et au Moyen-Orient",
+            "Conseil juridique stratégique. Analyse claire. Représentation de confiance.",
 
         heroDescription:
-            "Nous offrons aux particuliers, aux entreprises et aux organisations des conseils juridiques pratiques, une représentation stratégique, la rédaction de contrats et la résolution des litiges.",
+            "Nous conseillons les particuliers, entrepreneurs et entreprises en droit civil, commercial, des sociétés, immobilier, familial et pénal au Liban.",
 
-        heroContact: "Contacter le cabinet",
-        heroServices: "Découvrir nos services",
+        heroContact:
+            "Contacter le cabinet",
 
-        statFounded: "Année de création",
-        statExperience: "Années de pratique juridique",
-        statRegionValue: "Liban et MENA",
-        statRegion: "Services juridiques régionaux",
+        heroServices:
+            "Voir nos domaines",
 
-        aboutLabel: "À propos du cabinet",
+        heroSideLabel:
+            "Implanté à",
+
+        heroSideLocation:
+            "Baabda, Liban",
+
+        heroSideText:
+            "Au service des clients au Liban et au Moyen-Orient.",
+
+        statFounded:
+            "Année de création",
+
+        statExperience:
+            "Années de pratique juridique",
+
+        statRegionValue:
+            "Liban et MENA",
+
+        statRegion:
+            "Services juridiques régionaux",
+
+        aboutLabel:
+            "À propos du cabinet",
 
         aboutTitle:
-            "Une pratique fondée sur l’expérience, la discrétion et la confiance",
+            "Une pratique juridique ciblée fondée sur l’expérience, la discrétion et la confiance.",
 
         aboutParagraph1:
-            "Abed Al Karim Hijazi Law Office est un cabinet d’avocats pluridisciplinaire basé à Baabda, au Liban. Depuis 1992, le cabinet conseille et représente les particuliers, les entreprises et les organisations dans de nombreux domaines du droit.",
+            "Abed Al Karim Hijazi Law Office est un cabinet indépendant et pluridisciplinaire basé à Baabda, au Liban. Depuis 1992, le cabinet conseille et représente les particuliers, les familles, les entreprises et les organisations dans de nombreux domaines du droit.",
 
         aboutParagraph2:
-            "Le cabinet associe une analyse juridique rigoureuse à une approche pratique. Nous accompagnons nos clients dans les négociations, les transactions commerciales, les contrats, les litiges et les procédures devant les juridictions et les autorités publiques libanaises.",
+            "Le cabinet associe une analyse juridique rigoureuse à une approche pratique. Nous accompagnons nos clients dans les négociations, les transactions, les contrats, les litiges et les procédures devant les juridictions et autorités libanaises.",
 
         aboutParagraph3:
-            "Notre objectif est d’aider nos clients à comprendre leur situation juridique, à évaluer leurs options et à prendre des décisions éclairées en toute confiance.",
+            "Notre objectif est de fournir des conseils clairs, de protéger les intérêts de nos clients et de les aider à prendre des décisions éclairées en toute confiance.",
 
-        servicesLabel: "Domaines d’intervention",
-        servicesTitle: "Un accompagnement juridique complet",
+        aboutLink:
+            "Découvrir le fondateur",
 
-        civilTitle: "Droit civil",
+        servicesLabel:
+            "Domaines d’intervention",
+
+        servicesTitle:
+            "Un accompagnement juridique intégré pour les dossiers complexes.",
+
+        servicesIntroduction:
+            "Nous fournissons des conseils clairs et une représentation stratégique dans les principaux domaines du droit privé, du contentieux et du droit des affaires libanais.",
+
+        civilTitle:
+            "Droit civil",
 
         civilText:
-            "Conseil et représentation en matière de créances, d’obligations contractuelles, d’indemnisation et de litiges civils.",
+            "Créances, obligations contractuelles, indemnisation et litiges privés.",
 
-        criminalTitle: "Droit pénal",
+        criminalTitle:
+            "Droit pénal",
 
         criminalText:
-            "Assistance et représentation dans les enquêtes et les procédures pénales.",
+            "Conseil et représentation dans les enquêtes et procédures pénales.",
 
-        commercialTitle: "Contentieux commercial",
+        commercialTitle:
+            "Contentieux commercial",
 
         commercialText:
-            "Représentation des entreprises et des professionnels dans les litiges commerciaux, les négociations et les procédures judiciaires.",
+            "Litiges commerciaux, négociations et procédures judiciaires.",
 
-        corporateTitle: "Droit des sociétés",
+        corporateTitle:
+            "Droit des sociétés",
 
         corporateText:
-            "Accompagnement juridique des entreprises, de leurs activités, de leurs accords et de leurs opérations commerciales.",
+            "Vie des sociétés, accords commerciaux et opérations d’entreprise.",
 
-        contractsTitle: "Rédaction de contrats",
+        contractsTitle:
+            "Rédaction de contrats",
 
         contractsText:
-            "Rédaction, révision et négociation de contrats pour les particuliers, les entreprises et les organisations.",
+            "Rédaction, révision et négociation de contrats privés et commerciaux.",
 
-        disputesTitle: "Résolution des litiges",
+        disputesTitle:
+            "Résolution des litiges",
 
         disputesText:
-            "Assistance stratégique en matière de négociation, de règlement amiable, de médiation et de contentieux.",
+            "Négociation, règlement amiable, médiation et stratégie contentieuse.",
 
-        realEstateTitle: "Droit immobilier",
+        realEstateTitle:
+            "Droit immobilier",
 
         realEstateText:
-            "Assistance dans les transactions immobilières, les questions de propriété, les baux et les litiges immobiliers.",
+            "Transactions, propriété, baux et litiges immobiliers.",
 
-        familyTitle: "Droit de la famille",
+        familyTitle:
+            "Droit de la famille",
 
         familyText:
-            "Accompagnement juridique confidentiel dans les affaires et les procédures familiales.",
+            "Conseil et représentation confidentiels dans les affaires familiales.",
 
-        peopleLabel: "Notre équipe",
+        peopleLabel:
+            "Notre équipe",
 
         peopleSectionTitle:
-            "Expérience juridique et engagement public",
+            "Expérience juridique et engagement public.",
 
-        photoNote:
-            "Un portrait professionnel pourra être ajouté ici",
+        lawyerPhotoCaption:
+            "Fondateur",
 
         lawyerRole:
             "Avocat et fondateur",
@@ -310,7 +432,7 @@ const translations = {
             "Sa pratique repose sur une communication étroite avec les clients, une analyse juridique rigoureuse et une connaissance pratique de l’environnement juridique et institutionnel libanais.",
 
         lawyerParagraph3:
-            "Parallèlement à son activité d’avocat, il anime chaque semaine l’émission juridique et politique « Al Mouwaten Wal Kanoun » sur la radio Sawt Al Shaeb. Depuis plus de quatre décennies, l’émission accueille des professionnels du droit, des universitaires, des personnalités publiques et des spécialistes afin de discuter de l’actualité juridique et politique libanaise et internationale.",
+            "Parallèlement à sa pratique juridique, il anime chaque semaine l’émission juridique et politique « Al Mouwaten Wal Kanoun » sur la radio Sawt Al Shaeb. Depuis plus de quatre décennies, l’émission accueille des professionnels du droit, des universitaires, des personnalités publiques et des spécialistes afin de discuter des questions juridiques libanaises et internationales.",
 
         lawyerParagraph4:
             "À travers son activité juridique et son engagement dans le débat public, il contribue à rendre les questions juridiques plus accessibles et à favoriser une réflexion éclairée sur l’État de droit, les institutions publiques et les droits des citoyens.",
@@ -339,54 +461,71 @@ const translations = {
         highlight4Text:
             "Actualité juridique libanaise et internationale",
 
-        approachLabel: "Notre approche",
+        approachLabel:
+            "Notre approche",
 
         approachTitle:
-            "Des conseils clairs. Une représentation solide.",
+            "Analyse sereine. Conseil pratique. Défense déterminée.",
 
         approachDescription:
             "Chaque dossier est traité avec rigueur, confidentialité et une attention particulière aux objectifs du client.",
 
-        experienceTitle: "Expérience",
+        experienceTitle:
+            "Expérience",
 
         experienceText:
             "Des décennies de pratique et une connaissance approfondie de l’environnement juridique libanais.",
 
-        clarityTitle: "Clarté",
+        clarityTitle:
+            "Clarté",
 
         clarityText:
-            "Des explications compréhensibles permettant aux clients d’identifier leurs droits, leurs risques et leurs options.",
+            "Des explications claires sur la situation juridique, les options disponibles et leurs conséquences pratiques.",
 
-        confidentialityTitle: "Confidentialité",
+        confidentialityTitle:
+            "Confidentialité",
 
         confidentialityText:
-            "Un traitement discret et professionnel de chaque dossier.",
+            "Un traitement discret et professionnel de chaque dossier juridique.",
 
-        commitmentTitle: "Engagement",
+        commitmentTitle:
+            "Engagement",
 
         commitmentText:
             "Une représentation attentive et un service réactif.",
 
-        contactLabel: "Contact",
+        contactLabel:
+            "Contact",
 
         contactTitle:
-            "Échangez avec notre cabinet au sujet de votre dossier",
+            "Échangez avec le cabinet au sujet de votre dossier.",
 
         contactDescription:
             "Contactez-nous pour demander un rendez-vous ou obtenir davantage d’informations sur nos services juridiques.",
 
-        telephoneLabel: "Téléphone",
+        telephoneLabel:
+            "Téléphone",
 
-        addressLabel: "Adresse",
-        addressText: "Rue de Jamhour, Baabda, Liban",
+        addressLabel:
+            "Adresse",
 
-        hoursLabel: "Horaires",
-        hoursText: "Lundi–samedi, de 8 h 00 à 20 h 00",
+        addressText:
+            "Rue de Jamhour, Baabda, Liban",
 
-        serviceAreaLabel: "Zone d’intervention",
-        serviceAreaText: "Liban et Moyen-Orient",
+        hoursLabel:
+            "Horaires",
 
-        callButton: "Appeler le cabinet",
+        hoursText:
+            "Lundi–samedi, de 8 h 00 à 20 h 00",
+
+        serviceAreaLabel:
+            "Zone d’intervention",
+
+        serviceAreaText:
+            "Liban et Moyen-Orient",
+
+        callButton:
+            "Appeler le cabinet",
 
         footerFirm:
             "Abed Al Karim Hijazi Law Office",
@@ -395,7 +534,7 @@ const translations = {
             "Baabda, Liban",
 
         footerDisclaimer:
-            "Les informations figurant sur ce site sont fournies à titre général et ne constituent pas un conseil juridique. Le fait de contacter le cabinet ne crée pas automatiquement une relation avocat-client.",
+            "Les informations figurant sur ce site sont fournies à titre général et ne constituent pas un conseil juridique.",
 
         footerCopyright:
             "Abed Al Karim Hijazi Law Office. Tous droits réservés."
@@ -403,97 +542,149 @@ const translations = {
 
     ar: {
 
-        brandName: "عبد الكريم حجازي",
-        brandSubtitle: "مكتب محاماة",
+        brandName:
+            "عبد الكريم حجازي",
 
-        navHome: "الرئيسية",
-        navAbout: "من نحن",
-        navServices: "الخدمات",
-        navPeople: "فريقنا",
-        navApproach: "نهجنا",
-        navContact: "اتصل بنا",
+        brandSubtitle:
+            "مكتب محاماة",
+
+        navHome:
+            "الرئيسية",
+
+        navAbout:
+            "من نحن",
+
+        navServices:
+            "الخدمات",
+
+        navPeople:
+            "فريقنا",
+
+        navApproach:
+            "نهجنا",
+
+        navContact:
+            "اتصل بنا",
 
         heroEyebrow:
-            "مكتب محاماة متكامل الخدمات منذ عام 1992",
+            "مكتب محاماة مستقل منذ عام 1992",
 
         heroTitle:
-            "استشارات قانونية موثوقة في لبنان والشرق الأوسط",
+            "استشارة قانونية استراتيجية. رؤية واضحة. تمثيل موثوق.",
 
         heroDescription:
-            "نقدّم للأفراد والشركات والمؤسسات استشارات قانونية عملية وتمثيلاً قضائياً استراتيجياً وصياغة للعقود وحلولاً فعّالة للنزاعات.",
+            "نقدّم المشورة للأفراد ورواد الأعمال والشركات في القضايا المدنية والتجارية وقانون الشركات والعقارات والأسرة والقضايا الجزائية في لبنان.",
 
-        heroContact: "اتصل بالمكتب",
-        heroServices: "اكتشف خدماتنا",
+        heroContact:
+            "اتصل بالمكتب",
 
-        statFounded: "سنة التأسيس",
-        statExperience: "سنة من الممارسة القانونية",
-        statRegionValue: "لبنان والمنطقة",
-        statRegion: "خدمات قانونية إقليمية",
+        heroServices:
+            "مجالات الممارسة",
 
-        aboutLabel: "من نحن",
+        heroSideLabel:
+            "المقر",
+
+        heroSideLocation:
+            "بعبدا، لبنان",
+
+        heroSideText:
+            "نخدم العملاء في لبنان والشرق الأوسط.",
+
+        statFounded:
+            "سنة التأسيس",
+
+        statExperience:
+            "سنة من الخبرة القانونية",
+
+        statRegionValue:
+            "لبنان والمنطقة",
+
+        statRegion:
+            "خدمات قانونية إقليمية",
+
+        aboutLabel:
+            "من نحن",
 
         aboutTitle:
-            "خدمات قانونية قائمة على الخبرة والسرية والثقة",
+            "ممارسة قانونية قائمة على الخبرة والسرية والثقة.",
 
         aboutParagraph1:
-            "مكتب عبد الكريم حجازي للمحاماة هو مكتب متكامل الخدمات مقره بعبدا، لبنان. منذ عام 1992، يقدّم المكتب الاستشارات والتمثيل القانوني للأفراد والشركات والمؤسسات في مجموعة واسعة من القضايا.",
+            "مكتب عبد الكريم حجازي للمحاماة هو مكتب مستقل ومتكامل الخدمات مقره بعبدا، لبنان. منذ عام 1992، يقدّم المكتب الاستشارات والتمثيل القانوني للأفراد والعائلات والشركات والمؤسسات في مجموعة واسعة من القضايا.",
 
         aboutParagraph2:
-            "يجمع المكتب بين التحليل القانوني الدقيق والمشورة العملية، ويواكب عملاءه في المفاوضات والمعاملات التجارية والعقود والنزاعات والإجراءات أمام المحاكم والجهات الرسمية اللبنانية.",
+            "يجمع المكتب بين التحليل القانوني الدقيق والحكم العملي. نواكب العملاء في المفاوضات والمعاملات والعقود والنزاعات والإجراءات أمام المحاكم والجهات الرسمية اللبنانية.",
 
         aboutParagraph3:
-            "هدفنا هو مساعدة العملاء على فهم وضعهم القانوني وتقييم الخيارات المتاحة أمامهم واتخاذ قرارات مدروسة بثقة.",
+            "هدفنا هو تقديم مشورة واضحة وحماية مصالح العملاء ومساعدتهم على اتخاذ قرارات مدروسة بثقة.",
 
-        servicesLabel: "مجالات الممارسة",
-        servicesTitle: "دعم قانوني متكامل",
+        aboutLink:
+            "تعرّف إلى المؤسس",
 
-        civilTitle: "القانون المدني",
+        servicesLabel:
+            "مجالات الممارسة",
+
+        servicesTitle:
+            "دعم قانوني متكامل للقضايا المعقدة.",
+
+        servicesIntroduction:
+            "نقدّم استشارات واضحة وتمثيلاً استراتيجياً في أبرز مجالات القانون الخاص والتقاضي وقانون الأعمال اللبناني.",
+
+        civilTitle:
+            "القانون المدني",
 
         civilText:
-            "استشارات وتمثيل في الدعاوى المدنية والالتزامات التعاقدية والتعويضات والنزاعات.",
+            "الحقوق والالتزامات التعاقدية والتعويضات والنزاعات الخاصة.",
 
-        criminalTitle: "القانون الجزائي",
+        criminalTitle:
+            "القانون الجزائي",
 
         criminalText:
-            "مساعدة قانونية وتمثيل خلال التحقيقات والإجراءات الجزائية.",
+            "المشورة والتمثيل في التحقيقات والإجراءات الجزائية.",
 
-        commercialTitle: "النزاعات التجارية",
+        commercialTitle:
+            "النزاعات التجارية",
 
         commercialText:
-            "تمثيل الشركات وأصحاب الأعمال في النزاعات التجارية والمفاوضات والإجراءات القضائية.",
+            "المنازعات التجارية والمفاوضات والإجراءات القضائية.",
 
-        corporateTitle: "قانون الشركات",
+        corporateTitle:
+            "قانون الشركات",
 
         corporateText:
-            "دعم قانوني للشركات وعملياتها واتفاقياتها ومعاملاتها التجارية.",
+            "شؤون الشركات والاتفاقيات والعمليات التجارية.",
 
-        contractsTitle: "صياغة العقود",
+        contractsTitle:
+            "صياغة العقود",
 
         contractsText:
-            "صياغة العقود ومراجعتها والتفاوض بشأنها للأفراد والشركات والمؤسسات.",
+            "صياغة ومراجعة والتفاوض بشأن العقود الخاصة والتجارية.",
 
-        disputesTitle: "تسوية النزاعات",
+        disputesTitle:
+            "تسوية النزاعات",
 
         disputesText:
-            "مساعدة استراتيجية في التفاوض والتسوية والوساطة والتقاضي.",
+            "التفاوض والتسوية والوساطة واستراتيجية التقاضي.",
 
-        realEstateTitle: "القانون العقاري",
+        realEstateTitle:
+            "القانون العقاري",
 
         realEstateText:
-            "مساعدة في المعاملات العقارية والملكية والإيجارات والنزاعات العقارية.",
+            "المعاملات والملكية والإيجارات والنزاعات العقارية.",
 
-        familyTitle: "قانون الأسرة",
+        familyTitle:
+            "قانون الأسرة",
 
         familyText:
-            "دعم قانوني سري في القضايا والإجراءات العائلية.",
+            "مشورة وتمثيل سري في القضايا العائلية.",
 
-        peopleLabel: "فريقنا",
+        peopleLabel:
+            "فريقنا",
 
         peopleSectionTitle:
-            "خبرة قانونية وحضور في الشأن العام",
+            "خبرة قانونية وحضور في الشأن العام.",
 
-        photoNote:
-            "يمكن إضافة صورة مهنية هنا",
+        lawyerPhotoCaption:
+            "المؤسس",
 
         lawyerRole:
             "المحامي المؤسس",
@@ -511,7 +702,7 @@ const translations = {
             "تقوم ممارسته المهنية على التواصل المباشر مع العملاء والتحليل القانوني الدقيق والفهم العملي للبيئة القانونية والمؤسساتية في لبنان.",
 
         lawyerParagraph3:
-            "إلى جانب عمله في المحاماة، يقدّم أسبوعياً البرنامج القانوني والسياسي «المواطن والقانون» عبر إذاعة صوت الشعب. وعلى مدى أكثر من أربعة عقود، استضاف البرنامج محامين وقانونيين وأكاديميين وشخصيات عامة ومتخصصين لمناقشة الشؤون القانونية والسياسية اللبنانية والدولية.",
+            "إلى جانب ممارسته القانونية، يقدّم أسبوعياً البرنامج القانوني والسياسي «المواطن والقانون» عبر إذاعة صوت الشعب. وعلى مدى أكثر من أربعة عقود، استضاف البرنامج محامين وقانونيين وأكاديميين وشخصيات عامة ومتخصصين لمناقشة الشؤون القانونية اللبنانية والدولية.",
 
         lawyerParagraph4:
             "من خلال عمله القانوني وحضوره في الحوار العام، يساهم في تبسيط القضايا القانونية وتشجيع النقاش الواعي حول سيادة القانون والمؤسسات العامة وحقوق المواطنين.",
@@ -540,54 +731,71 @@ const translations = {
         highlight4Text:
             "الشؤون القانونية اللبنانية والدولية",
 
-        approachLabel: "نهجنا",
+        approachLabel:
+            "نهجنا",
 
         approachTitle:
-            "مشورة واضحة. تمثيل قوي.",
+            "تحليل هادئ. مشورة عملية. دفاع حازم.",
 
         approachDescription:
             "يتم التعامل مع كل ملف بعناية وسرية واهتمام دقيق بأهداف العميل.",
 
-        experienceTitle: "الخبرة",
+        experienceTitle:
+            "الخبرة",
 
         experienceText:
             "عقود من الممارسة القانونية والمعرفة بالبيئة القانونية اللبنانية.",
 
-        clarityTitle: "الوضوح",
+        clarityTitle:
+            "الوضوح",
 
         clarityText:
-            "شرح واضح يساعد العملاء على فهم حقوقهم والمخاطر والخيارات المتاحة أمامهم.",
+            "شرح واضح للوضع القانوني والخيارات المتاحة والنتائج العملية.",
 
-        confidentialityTitle: "السرية",
+        confidentialityTitle:
+            "السرية",
 
         confidentialityText:
             "معالجة مهنية وسرية لكل ملف قانوني.",
 
-        commitmentTitle: "الالتزام",
+        commitmentTitle:
+            "الالتزام",
 
         commitmentText:
             "تمثيل دقيق وخدمة سريعة الاستجابة.",
 
-        contactLabel: "اتصل بنا",
+        contactLabel:
+            "اتصل بنا",
 
         contactTitle:
-            "ناقش قضيتك القانونية مع مكتبنا",
+            "ناقش قضيتك القانونية مع المكتب.",
 
         contactDescription:
             "تواصل معنا لطلب موعد أو للحصول على المزيد من المعلومات حول خدماتنا القانونية.",
 
-        telephoneLabel: "الهاتف",
+        telephoneLabel:
+            "الهاتف",
 
-        addressLabel: "العنوان",
-        addressText: "شارع الجمهور، بعبدا، لبنان",
+        addressLabel:
+            "العنوان",
 
-        hoursLabel: "ساعات العمل",
-        hoursText: "من الاثنين إلى السبت، من الساعة 8:00 حتى 20:00",
+        addressText:
+            "شارع الجمهور، بعبدا، لبنان",
 
-        serviceAreaLabel: "نطاق الخدمات",
-        serviceAreaText: "لبنان والشرق الأوسط",
+        hoursLabel:
+            "ساعات العمل",
 
-        callButton: "اتصل بالمكتب",
+        hoursText:
+            "من الاثنين إلى السبت، من الساعة 8:00 حتى 20:00",
+
+        serviceAreaLabel:
+            "نطاق الخدمات",
+
+        serviceAreaText:
+            "لبنان والشرق الأوسط",
+
+        callButton:
+            "اتصل بالمكتب",
 
         footerFirm:
             "مكتب عبد الكريم حجازي للمحاماة",
@@ -596,15 +804,16 @@ const translations = {
             "بعبدا، لبنان",
 
         footerDisclaimer:
-            "المعلومات الواردة في هذا الموقع مقدمة لأغراض عامة فقط ولا تشكل استشارة قانونية. التواصل مع المكتب لا يؤدي تلقائياً إلى إنشاء علاقة بين المحامي والعميل.",
+            "المعلومات الواردة في هذا الموقع مقدمة لأغراض عامة فقط ولا تشكل استشارة قانونية.",
 
         footerCopyright:
             "مكتب عبد الكريم حجازي للمحاماة. جميع الحقوق محفوظة."
     }
+
 };
 
 
-/* SELECT ELEMENTS */
+/* ELEMENTS */
 
 const languageButtons =
     document.querySelectorAll("[data-lang]");
@@ -618,8 +827,11 @@ const menuButton =
 const mainNavigation =
     document.querySelector(".main-navigation");
 
+const siteHeader =
+    document.querySelector(".site-header");
 
-/* CHANGE LANGUAGE */
+
+/* LANGUAGE */
 
 function changeLanguage(languageCode) {
 
@@ -635,11 +847,15 @@ function changeLanguage(languageCode) {
         language;
 
     document.documentElement.dir =
-        isArabic ? "rtl" : "ltr";
+        isArabic
+            ? "rtl"
+            : "ltr";
 
     document.body.setAttribute(
         "dir",
-        isArabic ? "rtl" : "ltr"
+        isArabic
+            ? "rtl"
+            : "ltr"
     );
 
     translatedElements.forEach((element) => {
@@ -651,8 +867,11 @@ function changeLanguage(languageCode) {
             translations[language][translationKey];
 
         if (translatedText) {
-            element.textContent = translatedText;
+
+            element.textContent =
+                translatedText;
         }
+
     });
 
     languageButtons.forEach((button) => {
@@ -661,12 +880,14 @@ function changeLanguage(languageCode) {
             "active",
             button.dataset.lang === language
         );
+
     });
 
     localStorage.setItem(
         "preferredLanguage",
         language
     );
+
 }
 
 
@@ -680,13 +901,17 @@ languageButtons.forEach((button) => {
             button.dataset.lang
         );
 
-        mainNavigation.classList.remove("open");
+        mainNavigation.classList.remove(
+            "open"
+        );
 
         menuButton.setAttribute(
             "aria-expanded",
             "false"
         );
+
     });
+
 });
 
 
@@ -695,16 +920,19 @@ languageButtons.forEach((button) => {
 menuButton.addEventListener("click", () => {
 
     const menuIsOpen =
-        mainNavigation.classList.toggle("open");
+        mainNavigation.classList.toggle(
+            "open"
+        );
 
     menuButton.setAttribute(
         "aria-expanded",
         String(menuIsOpen)
     );
+
 });
 
 
-/* CLOSE MENU AFTER CLICKING A LINK */
+/* CLOSE MENU */
 
 document
     .querySelectorAll(".main-navigation a")
@@ -712,14 +940,99 @@ document
 
         link.addEventListener("click", () => {
 
-            mainNavigation.classList.remove("open");
+            mainNavigation.classList.remove(
+                "open"
+            );
 
             menuButton.setAttribute(
                 "aria-expanded",
                 "false"
             );
+
         });
+
     });
+
+
+/* HEADER SCROLL EFFECT */
+
+function updateHeader() {
+
+    if (window.scrollY > 45) {
+
+        siteHeader.classList.add(
+            "scrolled"
+        );
+
+    } else {
+
+        siteHeader.classList.remove(
+            "scrolled"
+        );
+
+    }
+
+}
+
+window.addEventListener(
+    "scroll",
+    updateHeader
+);
+
+updateHeader();
+
+
+/* REVEAL ANIMATION */
+
+const revealElements =
+    document.querySelectorAll(
+        ".section h2, .service-card, .lawyer-profile, .value-card, .contact-card"
+    );
+
+revealElements.forEach((element) => {
+
+    element.classList.add(
+        "reveal"
+    );
+
+});
+
+const revealObserver =
+    new IntersectionObserver(
+
+        (entries) => {
+
+            entries.forEach((entry) => {
+
+                if (entry.isIntersecting) {
+
+                    entry.target.classList.add(
+                        "visible"
+                    );
+
+                    revealObserver.unobserve(
+                        entry.target
+                    );
+
+                }
+
+            });
+
+        },
+
+        {
+            threshold: 0.12
+        }
+
+    );
+
+revealElements.forEach((element) => {
+
+    revealObserver.observe(
+        element
+    );
+
+});
 
 
 /* CURRENT YEAR */
@@ -733,7 +1046,9 @@ document.getElementById(
 /* LOAD SAVED LANGUAGE */
 
 const savedLanguage =
-    localStorage.getItem("preferredLanguage");
+    localStorage.getItem(
+        "preferredLanguage"
+    );
 
 changeLanguage(
     savedLanguage || "en"
